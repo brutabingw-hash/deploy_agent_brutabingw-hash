@@ -1,6 +1,6 @@
 ## Walkthrough Video
 
-[Watch the run-through here]()
+[Watch the run-through here](https://www.loom.com/share/99a502c38bbd4b369857a8d307ffc64b)
 
 # Automated Project Bootstrapping — Student Attendance Tracker
 
